@@ -14,6 +14,8 @@ categories:
 
 Neste artigo veremos como gerenciar pacotes rubygems e utilizá-los em seus programas.
 
+<!-- more -->
+
 ## O ambiente RubyGems
 
 O RubyGems é composto de:
